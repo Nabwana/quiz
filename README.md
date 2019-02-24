@@ -1,5 +1,5 @@
 Quiz Board
-A quiz app for the week 3 project,
+A quiz app for the week 3,
 22/02/2019
 
 By Pascal Nabwana
