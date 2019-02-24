@@ -13,7 +13,7 @@ The program should provide the user with a question and multiple choices.
 Setup/Installation Requirements
 git clone https://nabwana.github.io/quiz/
 atom .
-code .(this is if Visual Studio Code is your preferred text editor)
+preferred text editor. i.e Atom
 Link To Live Site
 https://nabwana.github.io/quiz/
 
