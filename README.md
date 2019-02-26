@@ -1,4 +1,4 @@
-Quiz Board
+##Quiz Board
 A quiz app for the week 3,
 22/02/2019
 
@@ -6,11 +6,11 @@ By Pascal Nabwana
 Description
 This app test your knowledge of javascript by giving you eight questions with multiple choices. Each correct answer you get, you are awarded 10 points out of a possible 80.
 
-Behavior Driven Development
+##Behavior Driven Development
 The program should provide the user with a question and multiple choices.
 
 
-Setup/Installation Requirements
+##Setup/Installation Requirements
 git clone https://nabwana.github.io/quiz/
 atom .
 preferred text editor. i.e Atom
